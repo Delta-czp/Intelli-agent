@@ -66,9 +66,6 @@ npm run dev
 ```
 前端启动后，系统将通过 WebSocket 提供实时流式反馈（SSE），直观展示各 Agent 节点的处理进度与思考过程。
 
-## 🤝 贡献与交流
-
-欢迎提交 Issue 和 Pull Request！我们期待与更多关注 AI+HR、Agentic Workflow 落地应用的开发者共同完善此项目。
 
 ## 📄 许可证
 
